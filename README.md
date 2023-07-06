@@ -2,12 +2,14 @@
 
 **Instrucciones para Correr Juego Contador**
 
-_SI ESTAS EN NPM_
+**DESCARGAR EL REPOSITORIO Y LUEGO PONER LOS SIGUENTES COMANDOS:**
+
+_SI LO QUIERES CORRER CON NPM_
 ```
 npm install
 npm run dev
 ```
-_SI ESTAS EN YARN_
+_SI LO QUIERES CORRER CON YARN_
 ```
 yarn
 yarn dev
